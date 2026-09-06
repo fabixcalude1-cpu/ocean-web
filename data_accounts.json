@@ -1,0 +1,20 @@
+[
+  {
+    "username": "FABIX",
+    "createdAt": "2026-09-05T05:40:13.092Z",
+    "id": "acc-1788586813047-h629pvp8",
+    "passwordHash": "a695f2e8aadcfd85d5d76134a3f9738a:9542d737e897491cc395785e40ff16d054084ce670c7ed09618ee03caf8d23e2"
+  },
+  {
+    "id": "acc-1788632973389-vn949toy",
+    "username": "fabox",
+    "passwordHash": "0c44b19951c1c956dc618b91e39f719f:e189c70c7d734306a4bf406a584a3671b9984100ac90192dcebb78a64fac9777",
+    "createdAt": "2026-09-05T18:29:33.420Z"
+  },
+  {
+    "id": "acc-1788632994896-9lq63kia",
+    "username": "123",
+    "passwordHash": "22117009a1203383f579d3ff197fdce9:9d9fdd6b43e8133ff750d691ded8822536202f9a0d2caa6dff563989e6f0ea53",
+    "createdAt": "2026-09-05T18:29:54.927Z"
+  }
+]

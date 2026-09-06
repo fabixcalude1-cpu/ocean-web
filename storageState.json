@@ -1,0 +1,16 @@
+{
+  "cookies": [
+    { "name": "security_verified", "value": "{\"exp\":1788263234808,\"iat\":1788259634808,\"sig\":\"19d392e100690dc9e8fbd67fe34915b6d46c5e5d9d2fc1e30baf2e200181e1b6\"}", "domain": "anticheat.ac", "path": "/" },
+    { "name": "accessTokenExpiry", "value": "1788261366000", "domain": "anticheat.ac", "path": "/" }
+  ],
+  "origins": [
+    {
+      "origin": "https://anticheat.ac",
+      "localStorage": [
+        { "name": "install-app-banner-dismissed-at", "value": "1788259664581" },
+        { "name": "ocean_token_expiry", "value": "1788261366796" },
+        { "name": "install-app-banner-dismissed", "value": "true" }
+      ]
+    }
+  ]
+}
